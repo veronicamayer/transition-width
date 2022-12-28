@@ -1,0 +1,13 @@
+div {
+    width: 7vw;
+    height: 10vh;
+    background-color: #D81D2C;
+}
+
+.transition {
+    transition: width 1s ease;
+}
+
+div:hover {
+    width: 60vw;
+}
